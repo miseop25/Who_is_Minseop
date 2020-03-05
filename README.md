@@ -15,7 +15,17 @@
    		- 총 학점 : 3.51/4.5
    		- 전공학점 : 3.61/4.5
 
-## 프로그래밍 능력
+## 프로그래밍 Skill
+
+- C : 임베디드시스템을 개발할 때 주로 사용하였습니다.
+
+- Python : 라즈베리파이을 컨트롤 할때 주로 사용하였으며 Tensorflow, Data 분석 등을 진행할 때 사용하였습니다. 독학을 통해 학습하였습니다.
+
+- Swift : ios App 개발을 시작하면서 공불하고 있는 언어입니다.
+
+- MATLAB : 디지털 신호처리를 진행할 때 각종 신호에 대한 처리를 진행하면서 사용하였습니다.
+
+
 
 
 
@@ -28,7 +38,7 @@
 시각장애인을 위한 교육용 점자보드를 제작하였습니다.
 
 
-교내 졸업작품 평가에서 1위를 하여 산업통상자원부장관상 외 7건의 수상실적과 1건의 특허를 출원하였습니다.
+교내 졸업작품 평가에서 1위를 하여 산업통상자원부장관상 외 6건의 수상실적과 1건의 특허를 출원하였습니다.
 
 [수상실적 보기!](https://github.com/miseop25/Graduation_project_Edu.Dot/tree/master/수상사진)
 
@@ -37,7 +47,7 @@
 
 
 
-## 도전하고 싶어서 진행했던 프로젝트
+## ios 프로젝트
 
 
 ### [Naver AI Burning Day](https://github.com/miseop25/2020_Naver_AI_Burning_Day)
@@ -48,22 +58,21 @@
 
 
 
-### 민섭의 메모 APP
+### [민섭의 메모 APP](https://github.com/miseop25/SeopMemoApp)
 
 ios app 개발을 공부하면서 진행했던 토이 프로젝트입니다.
 
 메모를 등록하고 수정하며 사진을 추가 할 수 있는 간단한 메모 app 입니다.
 
-[자세한 정보는 링크!](https://github.com/miseop25/SeopMemoApp)
+
+### [AutoLayout 계산기](https://github.com/miseop25/Swift_Study/tree/master/calculaterStudy)
+
+ios app 공부르 진행하면서 코드로만 구성된 계산기 App을 구현해 본 것 입니다.
 
 
 
+## Embedded System 프로젝트
 
-## 대학수업에서 진행했던 프로젝트
-
-대학교에서 진행했던 주요 프로젝트입니다.
-
- 수업을 듣고 직접 기획과 개발을 진행한 프로젝트들만 모아 두었습니다.
 
 #### [P2P 파일 공유 시스템](https://github.com/miseop25/Project_in_university/tree/master/Project_in_Class/2018_Fall_Operating_system)
 
@@ -89,4 +98,9 @@ ios app 개발을 공부하면서 진행했던 토이 프로젝트입니다.
 	입차시에 주차가능한 주차공간을 보여주고 안내해 주며 출차시에 사용자의 차량의 위치가 어디있는 지 알려주는 시스템입니다.
 
 
+## 기타 개인 공부
+
+### [알고리즘 문제풀이](https://github.com/miseop25/Back_Jun_Code_Study)
+
+알고리즘을 이해하고 구현해 보기 위하여 백준, 프로그래머스 등의 문제를 풀고 있습니다.
 
