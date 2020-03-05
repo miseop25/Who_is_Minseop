@@ -23,7 +23,7 @@
 
 링크를 클릭하시면 프로젝트를 보다 자세하게 볼 수 있습니다.
 
-## 졸업작품 : [Edu.Dot](https://github.com/miseop25/Graduation_project_Edu.Dot) <-링크를 클릭하면 자시하게 볼 수 있습니다.
+## 졸업작품 : [Edu.Dot](https://github.com/miseop25/Graduation_project_Edu.Dot) <-링크를 클릭하면 자세하게 볼 수 있습니다.
 
 시각장애인을 위한 교육용 점자보드를 제작하였습니다.
 
@@ -39,13 +39,13 @@
 
 ## 도전하고 싶어서 진행했던 프로젝트
 
-### Naver AI Burning Day
+
+### [Naver AI Burning Day](https://github.com/miseop25/2020_Naver_AI_Burning_Day)
 
 2020년 1월 Naver에서 개최하는 AI 해커톤을 신청하였고 본선 30에 선정되어 해커톤을 진행하였습니다.
 
 청각장애인분들도 각종 소리로 전달되는 정보르 볼 수 있도록 고안된 ios app 인 '소리보다' 기획하였고 개발하였습니다.
 
-[자세한 정보는 링크!](https://github.com/miseop25/2020_Naver_AI_Burning_Day)
 
 
 ### 민섭의 메모 APP
