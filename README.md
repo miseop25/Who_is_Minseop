@@ -22,9 +22,11 @@
 ## 졸업작품 : [Edu.Dot](https://github.com/miseop25/Graduation_project_Edu.Dot)
 
 시각장애인을 위한 교육용 점자보드를 제작하였습니다.
-<center><img src="https://user-images.githubusercontent.com/44546283/64489187-eb820f80-d28a-11e9-84c9-d70193c95afe.jpeg" width="300" height="300"></center>
+
 
 교내 졸업작품 평가에서 1위를 하여 산업통상자원부장관상 외 7건의 수상실적과 1건의 특허를 출원하였습니다.
+
+<center><img src="https://user-images.githubusercontent.com/44546283/64489187-eb820f80-d28a-11e9-84c9-d70193c95afe.jpeg" width="400" height="400"></center>
 
 
 ## 대학수업에서 진행했던 프로젝트
