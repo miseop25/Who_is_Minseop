@@ -61,7 +61,7 @@
 
 청각장애인분들도 각종 소리로 전달되는 정보르 볼 수 있도록 고안된 ios app 인 '소리보다' 기획하였고 개발하였습니다.
 
-<img width="464" alt="경고음 alert" src="https://user-images.githubusercontent.com/44546283/76135946-514f2880-606f-11ea-8efc-071a3467cf04.png"> <img width="489" alt="음성인식 img" src="https://user-images.githubusercontent.com/44546283/76135957-6af07000-606f-11ea-9ac6-8d47e860941a.png">
+<img width="200" alt="경고음 alert" src="https://user-images.githubusercontent.com/44546283/76135946-514f2880-606f-11ea-8efc-071a3467cf04.png"> <img width="200" alt="음성인식 img" src="https://user-images.githubusercontent.com/44546283/76135957-6af07000-606f-11ea-9ac6-8d47e860941a.png">
 
 
 
