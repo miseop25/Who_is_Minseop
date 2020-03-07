@@ -73,6 +73,7 @@ ios app 개발을 공부하면서 진행했던 토이 프로젝트입니다.
 
 메모를 등록하고 수정하며 사진을 추가 할 수 있는 간단한 메모 app 입니다.
 
+<img width="200" alt="메모데모 img" src="https://user-images.githubusercontent.com/44546283/76136035-7ee8a180-6070-11ea-963d-c989cc3bf2b5.png"> <img width="200" alt="메모데모 img" src="https://user-images.githubusercontent.com/44546283/76136045-b0fa0380-6070-11ea-9899-06d77ef79606.png">
 
 ### [AutoLayout 계산기](https://github.com/miseop25/Swift_Study/tree/master/calculaterStudy)
 
