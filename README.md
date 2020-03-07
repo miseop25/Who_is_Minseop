@@ -55,7 +55,7 @@
 ## ios 프로젝트
 
 
-### [Naver AI Burning Day](https://github.com/miseop25/2020_Naver_AI_Burning_Day)
+### [Naver AI Burning Day-소리보다](https://github.com/miseop25/2020_Naver_AI_Burning_Day)
 
 2020년 1월 Naver에서 개최하는 AI 해커톤을 신청하였고 본선 30에 선정되어 해커톤을 진행하였습니다.
 
