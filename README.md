@@ -74,7 +74,7 @@ ios app 개발을 공부하면서 진행했던 토이 프로젝트입니다.
 
 <img width="200" alt="메모데모 img" src="https://user-images.githubusercontent.com/44546283/76136035-7ee8a180-6070-11ea-963d-c989cc3bf2b5.png"> <img width="200" alt="메모데모 img" src="https://user-images.githubusercontent.com/44546283/76136045-b0fa0380-6070-11ea-9899-06d77ef79606.png">
 
-### [AutoLayout 계산기](https://github.com/miseop25/Swift_Study/tree/master/calculaterStudy)
+### [AutoLayout 계산기](https://github.com/miseop25/iOS_Study/tree/master/calculaterStudy)
 
 ios app 공부르 진행하면서 코드로만 구성된 계산기 App을 구현해 본 것 입니다.
 
